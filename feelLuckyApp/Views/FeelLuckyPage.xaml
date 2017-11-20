@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="feelLuckyApp.FeelLuckyPage">
+	<ContentPage.Content>
+        <StackLayout  Orientation="Vertical" Padding="30,30,30,30">
+            <Label x:Name="lblLuckyText" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center">Feel Lucky Today?</Label>
+            <Button x:Name="btnTryIt" HorizontalOptions="CenterAndExpand" Text="Try It!" Clicked="OnTryIt"/>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

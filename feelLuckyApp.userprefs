@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{FEE6E5C2-79D1-42B8-B915-1C9FBD71CD43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="feelLuckyApp/Views/MainPage.cs">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="17" Column="20" />
+      <File FileName="iOS/AppDelegate.cs" Line="19" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="feelLuckyApp/App.xaml" Line="14" Column="9" />
+      <File FileName="feelLuckyApp/App.xaml.cs" Line="9" Column="51" />
+      <File FileName="feelLuckyApp/Views/MainPage.cs" Line="14" Column="14" />
+      <File FileName="feelLuckyApp/Views/FeelLuckyPage.xaml" Line="10" Column="1" />
+      <File FileName="feelLuckyApp/Views/FeelLuckyPage.xaml.cs" Line="18" Column="57" />
+      <File FileName="feelLuckyApp/Services/CloudDataStore.cs" Line="25" Column="13" />
+      <File FileName="feelLuckyApp/Services/IDataStore.cs" Line="9" Column="28" />
+      <File FileName="feelLuckyApp/Services/MockDataStore.cs" Line="10" Column="87" />
+      <File FileName="feelLuckyApp/ViewModels/BaseViewModel.cs" Line="17" Column="35" />
+      <File FileName="feelLuckyApp/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
+      <File FileName="feelLuckyApp/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="feelLuckyApp/ViewModels/ItemsViewModel.cs" Line="15" Column="32" />
+      <File FileName="feelLuckyApp/ViewModels/AboutViewModel.cs" Line="14" Column="15" />
+      <File FileName="feelLuckyApp/Views/AboutPage.xaml" Line="61" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.feelLuckyApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A5E17E1-C2B5-4F5F-B288-F42B553E9178">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.feelLuckyApp.iOS>
+</Properties>
